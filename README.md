@@ -1,2 +1,3 @@
-# PRODIGY_ML_1
-Linear Regression on housing prices
+#Linear Regression on housing prices
+
+This project was made a part of InfoTech internship 
